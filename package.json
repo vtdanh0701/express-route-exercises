@@ -1,0 +1,33 @@
+{
+  "name": "express-route-exercises",
+  "version": "1.0.0",
+  "description": "Exercises for practicing route patterns in Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WDI-SEA/express-route-exercises.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "route",
+    "controller",
+    "parameter",
+    "query",
+    "string",
+    "url"
+  ],
+  "author": "Steve Peters, General Assembly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WDI-SEA/express-route-exercises/issues"
+  },
+  "homepage": "https://github.com/WDI-SEA/express-route-exercises#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
